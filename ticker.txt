@@ -1,7 +1,4 @@
 gern
-s
-dcgo
-ttgt
 icg
 nvno
 aur
@@ -10,13 +7,12 @@ aura
 brbr
 dava
 sfm
-fi
+fisv
 chtr
 irdm
 cava
 huma
 lbrda
-cold
 mstr
 alk
 wing
@@ -25,4 +21,3 @@ dsp
 ua
 fmc
 anf
-vtex
