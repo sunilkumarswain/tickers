@@ -1,6 +1,4 @@
 gern
-icg
-nvno
 aur
 aura
 brbr
@@ -22,4 +20,4 @@ fmc
 anf
 rbbn
 rckt
-
+wix
