@@ -1,7 +1,6 @@
 gern
 aur
 aura
-brbr
 dava
 sfm
 bull
@@ -13,11 +12,10 @@ huma
 lbrda
 mstr
 alk
-wing
 eeft
 ua
 fmc
-anf
 rbbn
 rckt
 wix
+tlry
