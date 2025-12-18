@@ -2,7 +2,6 @@ aapl
 adbe
 amd
 amzn
-asst
 aur
 bmrn
 btbt
@@ -20,10 +19,8 @@ ddi
 djt
 dxcm
 eeft
-fisv
 gern
 goog
-hubs
 huma
 irdm
 it
@@ -32,7 +29,6 @@ kvyo
 lbrda
 mara
 msft
-msi
 mstr
 nb
 ntnx
@@ -51,7 +47,6 @@ uamy
 uec
 uhal
 verx
-vsme
 wix
 zs
 alts
