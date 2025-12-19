@@ -13,10 +13,10 @@ chtr
 cint
 clsk
 codi
+coin
 crto
 czr
 ddi
-djt
 dxcm
 eeft
 gern
@@ -31,7 +31,6 @@ mara
 msft
 mstr
 nb
-ntnx
 nvda
 nxtt
 payo
@@ -42,17 +41,11 @@ smci
 smr
 sqns
 tsm
-ua
 uamy
-uec
 uhal
 verx
-wix
 zs
 alts
-asix
 dava
 gamb
-nx
 sbet
-weav
