@@ -1,6 +1,5 @@
 adbe
 amd
-amzn
 aur
 btbt
 btdr
@@ -19,7 +18,6 @@ huma
 irdm
 it
 kop
-kvyo
 lbrda
 mara
 msft
@@ -38,9 +36,11 @@ tsm
 uamy
 uhal
 verx
-zs
 alts
 dava
 gamb
 sbet
-
+bynd
+veev
+ddog
+zbra
