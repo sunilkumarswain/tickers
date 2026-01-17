@@ -43,4 +43,3 @@ odd
 zs
 cort
 bsx
-ttd
