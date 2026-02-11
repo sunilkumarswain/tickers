@@ -1,9 +1,10 @@
+abtc
 adbe
+asst
 aur
 btbt
 btdr
 bull
-chtr
 clsk
 coin
 cpng
@@ -11,9 +12,11 @@ crto
 ddi
 docs
 eeft
-gern
+elab
+fico
 gtlb
 gwre
+hims
 huma
 it
 lbrda
