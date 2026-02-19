@@ -47,7 +47,6 @@ crm
 glob
 pcor
 pins
-tyl
 wday
 gddy
 qtwo
