@@ -12,7 +12,6 @@ crto
 ddi
 docs
 eeft
-elab
 fico
 gtlb
 gwre
@@ -39,3 +38,19 @@ gamb
 odd
 zs
 angi
+u
+cnxc
+sap
+docu
+fivn
+team
+crm
+glob
+pcor
+pins
+tyl
+wday
+gddy
+qtwo
+insp
+payc
