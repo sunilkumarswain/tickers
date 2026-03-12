@@ -49,4 +49,7 @@ team
 iq
 yss
 djt
-
+owl
+fico
+u
+cnxc
