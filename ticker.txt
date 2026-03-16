@@ -23,24 +23,34 @@ nvda
 nxtt
 odd
 rbbn
-sfm
 sln
 smci
 sqns
 verx
+xpof
+u
 dava
 envx
 gamb
 odd
 zs
 angi
+<<<<<<< Updated upstream
 pins
 gddy
 insp
 xpof
+=======
+u
+cnxc
+docu
+team
+glob
+gddy
+qtwo
+>>>>>>> Stashed changes
 estc
 vyx
-kd
 pct
 rum
 pton
