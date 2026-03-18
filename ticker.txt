@@ -10,6 +10,9 @@ cpng
 crto
 docs
 eeft
+fico
+gamb
+gddy
 gtlb
 huma
 it
@@ -23,6 +26,7 @@ nvda
 nxtt
 odd
 rbbn
+rum
 sln
 smci
 sqns
@@ -31,36 +35,19 @@ xpof
 u
 dava
 envx
-gamb
-odd
 zs
 angi
-<<<<<<< Updated upstream
 pins
-gddy
-insp
-xpof
-=======
-u
-cnxc
 docu
 team
 glob
-gddy
 qtwo
->>>>>>> Stashed changes
 estc
 vyx
 pct
-rum
 pton
-u
-team
 iq
 yss
 djt
 owl
-fico
-u
-cnxc
 fwrd
