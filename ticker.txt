@@ -4,9 +4,9 @@ asst
 btbt
 btdr
 bull
+bynd
 clsk
 coin
-cpng
 crto
 docs
 eeft
@@ -25,6 +25,7 @@ now
 nvda
 nxtt
 odd
+owl
 rbbn
 rum
 sln
