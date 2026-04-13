@@ -44,3 +44,6 @@ vyx
 pct
 iq
 enov
+gtm
+bsx
+brze
