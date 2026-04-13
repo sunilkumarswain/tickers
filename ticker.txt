@@ -42,7 +42,6 @@ qtwo
 estc
 vyx
 pct
-pton
 iq
 enov
 fwrd
