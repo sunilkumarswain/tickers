@@ -4,7 +4,6 @@ asst
 btbt
 btdr
 bull
-bynd
 clsk
 coin
 crto
@@ -47,3 +46,4 @@ enov
 gtm
 bsx
 brze
+podd
