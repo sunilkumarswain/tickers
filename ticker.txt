@@ -40,7 +40,6 @@ glob
 qtwo
 estc
 vyx
-pct
 iq
 enov
 gtm
