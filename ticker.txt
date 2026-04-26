@@ -47,7 +47,6 @@ dava
 envx
 odd
 zs
-estc
 gtm
 podd
 vitl
@@ -55,3 +54,5 @@ smpl
 onon
 cde
 dash
+app
+yext
