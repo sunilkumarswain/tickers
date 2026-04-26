@@ -13,7 +13,6 @@ coin
 crto
 dcbo
 docs
-eeft
 fico
 gamb
 gddy
