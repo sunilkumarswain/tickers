@@ -11,7 +11,6 @@ ciss
 clsk
 coin
 crto
-dcbo
 docs
 fico
 gamb
@@ -47,12 +46,12 @@ dava
 envx
 odd
 zs
-gtm
 podd
 vitl
-smpl
 onon
 cde
-dash
 app
-yext
+meli
+zbra
+cxt
+uhs
