@@ -14,7 +14,6 @@ crto
 docs
 fico
 gamb
-gddy
 glob
 gnlx
 gtlb
@@ -29,7 +28,6 @@ lbrda
 mara
 msft
 mstr
-nexr
 now
 nutx
 nvda
@@ -56,3 +54,7 @@ zbra
 cxt
 uhs
 chdn
+pdd
+dxcm
+alk
+oled
