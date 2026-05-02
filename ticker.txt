@@ -45,6 +45,7 @@ onon
 cde
 app
 meli
+bsx
 zbra
 cxt
 uhs
