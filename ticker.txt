@@ -53,4 +53,6 @@ chdn
 pdd
 dxcm
 alk
-oled
+elf
+mndy
+upb
