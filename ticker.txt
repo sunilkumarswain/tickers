@@ -3,7 +3,6 @@ adbe
 adma
 avlo
 angi
-brze
 btbt
 btdr
 bull
@@ -18,7 +17,6 @@ glob
 gnlx
 gtlb
 gwre
-hubs
 huma
 iq
 it
@@ -29,16 +27,13 @@ mara
 msft
 mstr
 now
-nutx
 nvda
 nxtt
 prgs
 qtwo
 smci
-smpl
 sqns
 verx
-wto
 avxl
 dava
 envx
