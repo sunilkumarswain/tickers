@@ -49,7 +49,6 @@ bsx
 zbra
 cxt
 uhs
-chdn
 pdd
 dxcm
 alk
