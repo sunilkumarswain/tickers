@@ -50,8 +50,11 @@ onon
 bsx
 zbra
 cxt
-pdd
 elf
 mndy
 tsco
 amrc
+dxc
+hubs
+tmo
+vst
