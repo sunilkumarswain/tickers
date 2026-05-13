@@ -1,7 +1,6 @@
 abtc
 adbe
 adma
-avlo
 app
 birk
 btbt
@@ -13,7 +12,6 @@ crto
 docs
 dxcm
 fico
-fwrd
 gamb
 glob
 gnlx
@@ -27,6 +25,7 @@ kxin
 lbrda
 mara
 meli
+meta
 msft
 mstr
 now
@@ -48,10 +47,8 @@ zs
 podd
 onon
 bsx
-zbra
 cxt
 elf
-mndy
 tsco
 amrc
 dxc
