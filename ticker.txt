@@ -16,12 +16,10 @@ gamb
 glob
 gnlx
 gtlb
-huma
 iq
 it
 janx
 kros
-kxin
 lbrda
 mara
 meli
@@ -33,7 +31,6 @@ nvda
 nxtt
 nxxt
 pdd
-podd
 prgs
 qtwo
 sqns
@@ -54,4 +51,9 @@ amrc
 dxc
 hubs
 tmo
-vst
+ktos
+dash
+iot
+shop
+tost
+alny
