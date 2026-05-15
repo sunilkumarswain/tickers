@@ -47,7 +47,6 @@ bsx
 cxt
 elf
 tsco
-amrc
 dxc
 hubs
 tmo
