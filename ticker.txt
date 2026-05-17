@@ -16,7 +16,6 @@ gamb
 glob
 gnlx
 gtlb
-iq
 it
 janx
 kros
@@ -41,14 +40,12 @@ dava
 envx
 odd
 zs
-podd
 onon
 bsx
 cxt
 elf
 tsco
 dxc
-hubs
 tmo
 ktos
 dash
@@ -56,3 +53,4 @@ iot
 shop
 tost
 alny
+gmab
