@@ -6,7 +6,6 @@ birk
 btbt
 btdr
 bull
-ciss
 coin
 crto
 docs
@@ -28,7 +27,6 @@ mstr
 now
 nvda
 nxtt
-nxxt
 pdd
 prgs
 qtwo
