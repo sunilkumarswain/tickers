@@ -2,8 +2,12 @@ abtc
 adbe
 adma
 agi
+alk
+aph
 app
+argx
 birk
+bsx
 btbt
 btdr
 bull
@@ -43,7 +47,6 @@ avxl
 dava
 envx
 odd
-bsx
 cxt
 elf
 dxc
