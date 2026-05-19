@@ -37,7 +37,6 @@ avxl
 dava
 envx
 odd
-zs
 onon
 bsx
 cxt
@@ -47,7 +46,6 @@ dxc
 tmo
 ktos
 dash
-iot
 shop
 tost
 alny
@@ -58,3 +56,4 @@ vst
 agi
 aph
 crh
+regn
