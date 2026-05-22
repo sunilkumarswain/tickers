@@ -4,8 +4,6 @@ adma
 agi
 aph
 app
-argx
-birk
 bsx
 btbt
 btdr
@@ -20,8 +18,6 @@ gmab
 gnlx
 it
 janx
-kros
-ktos
 lbrda
 ma
 meli
