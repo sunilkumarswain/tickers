@@ -7,7 +7,6 @@ app
 bsx
 btbt
 btdr
-ciss
 coin
 crh
 crto
@@ -21,14 +20,13 @@ janx
 lbrda
 ma
 meli
-meta
 msft
 mstr
 now
 nvda
 nxtt
 pdd
-qtwo
+rcl
 tmo
 upb
 verx
@@ -38,5 +36,3 @@ dava
 envx
 odd
 wpm
-hdb
-rcl
