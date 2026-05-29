@@ -3,7 +3,6 @@ adbe
 adma
 agi
 aph
-app
 bsx
 btbt
 btdr
