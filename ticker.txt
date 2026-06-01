@@ -21,7 +21,6 @@ ma
 meli
 msft
 mstr
-now
 nvda
 nxtt
 pdd
