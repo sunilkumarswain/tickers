@@ -5,7 +5,6 @@ agi
 aph
 bsx
 btbt
-btdr
 coin
 crh
 crto
@@ -31,7 +30,6 @@ verx
 wday
 dava
 envx
-odd
 wpm
 podd
 schw
