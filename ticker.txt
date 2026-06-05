@@ -7,7 +7,6 @@ bsx
 btbt
 coin
 crh
-crto
 docs
 gamb
 ge
@@ -33,7 +32,6 @@ envx
 wpm
 podd
 schw
-vlto
 uhs
 meta
 cvna
