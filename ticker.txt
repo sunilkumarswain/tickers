@@ -1,6 +1,5 @@
 abtc
 adbe
-adma
 agi
 aph
 bsx
@@ -8,7 +7,6 @@ btbt
 coin
 crh
 docs
-gamb
 ge
 gmab
 gnlx
@@ -32,6 +30,4 @@ envx
 wpm
 podd
 schw
-uhs
 meta
-cvna
