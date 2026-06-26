@@ -1,7 +1,6 @@
 abtc
 adbe
 agi
-alk
 aph
 app
 avgo
