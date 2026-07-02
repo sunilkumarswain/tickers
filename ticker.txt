@@ -6,6 +6,7 @@ bsx
 btbt
 ccj
 coin
+crm
 cvna
 fslr
 gmab
@@ -26,6 +27,7 @@ rcl
 rtx
 schw
 smci
+spgi
 tjx
 tmo
 trgp
