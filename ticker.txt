@@ -11,12 +11,14 @@ cvna
 fslr
 gmab
 intu
+lvs
 ma
 meli
 meta
 msft
 mstr
 nflx
+nu
 nvda
 nxt
 nxtt
