@@ -11,7 +11,6 @@ cvna
 fslr
 gmab
 intu
-it
 ma
 meli
 meta
