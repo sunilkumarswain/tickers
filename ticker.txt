@@ -4,6 +4,7 @@ app
 avgo
 bsx
 btbt
+ceg
 ccj
 coin
 crm
