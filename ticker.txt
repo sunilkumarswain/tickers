@@ -7,7 +7,6 @@ btbt
 ceg
 ccj
 coin
-crm
 cvna
 fslr
 gmab
@@ -19,15 +18,17 @@ meta
 msft
 mstr
 nflx
-nu
+noc
 nvda
 nxt
 nxtt
 orcl
 pdd
+ppl
 rcl
 rtx
 schw
+se
 smci
 spgi
 tjx
