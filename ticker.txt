@@ -2,7 +2,6 @@ adbe
 agi
 app
 avgo
-bsx
 btbt
 ceg
 ccj
@@ -32,7 +31,6 @@ se
 smci
 spgi
 tjx
-tmo
 trgp
 tsm
 uber
