@@ -8,6 +8,7 @@ ccj
 ceg
 coin
 cvna
+foxa
 fslr
 gmab
 hca
@@ -30,6 +31,7 @@ schw
 se
 smci
 spgi
+tcom
 tjx
 trgp
 tsm
