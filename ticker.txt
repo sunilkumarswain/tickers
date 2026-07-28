@@ -2,6 +2,7 @@ adbe
 achr
 adma
 agi
+amt
 aph
 apld
 app
@@ -9,6 +10,7 @@ avgo
 btbt
 btdr
 ccj
+cls
 clsk
 ceg
 coin
