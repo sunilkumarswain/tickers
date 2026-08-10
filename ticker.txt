@@ -43,7 +43,6 @@ rtx
 run
 schw
 se
-skhy
 smci
 spgi
 tcom
