@@ -28,7 +28,6 @@ glxy
 gmab
 goog
 hca
-hona
 janx
 legn
 lvs
