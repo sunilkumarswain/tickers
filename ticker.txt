@@ -1,4 +1,6 @@
+acmr
 adbe
+aep
 agi
 alhc
 amt
@@ -26,7 +28,9 @@ glxy
 gmab
 goog
 hca
+hona
 janx
+legn
 lvs
 mara
 meli
@@ -42,6 +46,7 @@ rcl
 rtx
 run
 schw
+shls
 se
 smci
 spgi
@@ -52,6 +57,5 @@ tsm
 uber
 uec
 vrt
-vst
 wpm
 wulf
